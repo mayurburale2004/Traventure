@@ -66,7 +66,8 @@
 
 **Traventure** is deployed on **Render**, using **MongoDB Atlas** for cloud database hosting.
 
-🔗 **Live Demo:** https://traventure-1.onrender.com/listings
+🔗 **Live Demo:** (https://traventure-1.onrender.com/listings)
+**[LinkedIn]** (https://in.linkedin.com/in/mayur-burale-949096258)
 
 
 ---
