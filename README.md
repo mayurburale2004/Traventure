@@ -5,7 +5,8 @@
 **Traventure** is a full-stack web application designed to let users explore, book, and list vacation rentals such as houses, villas, and farmhouses. With real-time location views via **Geoapify**, secure **OAuth logins**, and dynamic booking functionality, Traventure offers a complete and smooth travel experience for both guests and hosts.
 
 ---
-![Screenshot 2025-06-10 093351](https://github.com/user-attachments/assets/d0e5c42f-38a5-433d-b23c-8d2344664c66)
+
+![Uploading Screenshot 2025-06-10 093351.png…]()
 
 
 
