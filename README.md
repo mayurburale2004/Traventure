@@ -11,7 +11,6 @@
 * 🔑 **Authentication**: Google OAuth & GitHub OAuth login options
 * 🏡 **Property Listings**: Users can add, edit, or delete listings with images and location tags
 * 🗺️ **Map Integration**: location view using **Geoapify**
-* 📆 **Booking System**: Seamless property reservation system
 * 🌐 **Responsive UI**: Mobile-friendly and optimized interface
 * ⭐ **User Ratings & Reviews**
 * 🔍 **Advanced Search & Filters**
