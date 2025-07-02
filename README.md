@@ -27,7 +27,6 @@
 ### 👨‍💻 Front-End
 
 * **HTML, CSS, JavaScript, Bootstrap, EJS**
-* **React.js** for dynamic user interactions
 * Integrated **Geoapify** for maps 
 
 ### 🧪 Back-End
